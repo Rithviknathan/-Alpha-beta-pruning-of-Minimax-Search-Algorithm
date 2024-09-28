@@ -211,6 +211,8 @@ if __name__ == "__main__":
 
 ```
 ### OUTPUT
-![Uploading 370978266-57a87712-581d-47c2-bec6-fbdc96427dbc.png…]()
+![370978266-57a87712-581d-47c2-bec6-fbdc96427dbc](https://github.com/user-attachments/assets/f5b9ab26-2998-4e39-906e-6a5306155c1a)
+
+
 ### RESULT
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
